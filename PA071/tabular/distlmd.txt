@@ -1,0 +1,30 @@
+"Non-MLRA Soil Survey Area"|"PA071"|"Lancaster County, Pennsylvania"||11/01/1982 00:00:00|"certified, major components"|08/30/2025 03:40:40|"PA071
+The CnB31vnn-Conestoga silt loam, 3 to 8 percent slopes"" mapunit tabular and/or spatial data was edited to improve the quality of joins between soil survey areas for soil delineations and attributes. as a result of the EVAL MLRA 148 - NE-FRE Conestoga silt loam, 3 to 8 percent slopes project
+The tabular database was edited and populated according to guidance in Exhibits A and B of National Instruction (NI-305), and Part 610 of the National Soil Survey Handbook. Any spatial data edits were certified correct by the Soil Survey region GIS specialist, State Soil Scientist (SSS), and by the National Digitizing Center. The SSS certified the data population for all map units, and concurred with correlation of all projects mentioned, as they were documented in Soil Survey Area Legend(s), and in the Project Correlation tables.
+
+The SSS certified the data population for all map units, and concurred with correlation of all projects mentioned, as they were documented in Soil Survey Area Legend(s) and in the Project Correlation table.
+
+This dataset also contains the following changes:
+
+Recalculated all national, regional, and local interpretations for all components.
+
+Eleven national interpretations listed below are new or have been updated for Fiscal Year 2025:
+
+ENG - Shallow Excavations
+ENG - Construction Materials; Reclamation
+FOR - Hand Planting Suitability
+SOH - Dynamic Soil Properties Response to Biochar
+PFAS - Movement Classes in Soils
+FOR - Construction Limitations for Haul Roads/Log Landings
+FOR - Harvest Equipment Operability
+FOR - Potential Seedling Mortality
+FOR - Potential Erosion Hazard (Road/Trail)
+FOR - Road Suitability (Natural Surface)
+FOR - Log Landing Suitability
+
+The following regional interpretations are new or have been updated for Fiscal Year 2025:
+
+VIN - Vinifera Wine Grape Site Desirability (Long)
+VIN - Hybrid Wine Grape Varieties Site Desirability (Long)
+VIN - American Wine Grape Varieties Site Desirability (Long)
+"|"14649"|"91018"|"90919"

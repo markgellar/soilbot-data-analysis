@@ -1,0 +1,118 @@
+cokey,chkey,hzname,hzdept_r,hzdepb_r,om_l,om_r,om_h,cec7_l,cec7_r,cec7_h,ph1to1h2o_l,ph1to1h2o_r,ph1to1h2o_h,awc_r,ksat_r,dbthirdbar_r,mukey,compname,comppct_r,drainagecl,taxorder,taxgrtgroup,musym,muname,sand_pct,silt_pct,clay_pct
+26819866,80054212,Ap,0,25,2.0,2.5,3.0,5.5,9.5,13.6,5.3,6.1,6.9,0.19,9.17,1.42,542715,Abbottstown,85,Somewhat poorly drained,Alfisols,Fragiaqualfs,AbB,"Abbottstown silt loam, 3 to 8 percent slopes",29.1,53.4,17.5
+26819460,80052681,A,0,10,2.0,5.0,6.0,7.0,10.8,14.5,4.5,5.5,6.5,0.19,9.17,1.25,542716,Abbottstown,90,Somewhat poorly drained,Alfisols,Fragiaqualfs,AsB,"Abbottstown extremely stony silt loam, 3 to 8 percent slopes",29.1,53.4,17.5
+26819467,80052708,Ap,0,25,2.0,3.0,4.0,7.5,13.2,18.8,4.1,5.4,6.6,0.22,2.82,1.3,542717,Baile,85,Poorly drained,Ultisols,Endoaquults,Ba,Baile silt loam,21.7,54.8,23.5
+26819469,80052716,Ap,0,23,1.5,2.25,3.0,7.5,11.0,14.5,4.5,5.9,7.3,0.16,9.17,1.35,542718,Bedington,90,Well drained,Ultisols,Hapludults,BdA,"Bedington silt loam, 0 to 3 percent slopes",26.5,53.5,20.0
+26819475,80052736,H1,0,25,1.0,2.0,3.0,8.1,10.8,13.6,4.5,5.9,7.3,0.16,9.17,1.35,542719,Bedington,75,Well drained,Ultisols,Hapludults,BdB,"Bedington silt loam, 3 to 8 percent slopes",26.5,53.5,20.0
+26819479,80052751,H1,0,25,1.0,2.0,3.0,8.1,10.8,13.6,4.5,5.9,7.3,0.16,9.17,1.35,542720,Bedington,75,Well drained,Ultisols,Hapludults,BdC,"Bedington silt loam, 8 to 15 percent slopes",26.5,53.5,20.0
+26819484,80052770,H1,0,23,1.0,2.0,3.0,15.0,20.0,25.0,4.5,5.9,7.3,0.14,9.17,1.35,542721,Bedington,85,Well drained,Ultisols,Hapludults,BeD,"Bedington channery silt loam, 15 to 25 percent slopes",26.5,53.5,20.0
+26819490,80052793,Ap,0,25,2.0,3.0,4.0,5.5,11.2,16.8,4.2,5.4,6.6,0.16,9.17,1.5,542722,Blairton,90,Moderately well drained,Ultisols,Hapludults,Bm,"Blairton silt loam, 3 to 10 percent slopes",27.1,54.4,18.5
+26819493,80052799,Ap,0,18,3.0,3.5,4.0,5.5,7.4,9.3,5.1,5.8,6.5,0.18,9.17,1.3,542723,Bowmansville,90,Somewhat poorly drained,Inceptisols,Endoaquepts,Bo,Bowmansville silt loam,30.5,56.0,13.5
+26819694,80053513,Ap,0,20,1.0,2.0,3.0,5.5,8.3,11.0,4.5,6.0,6.0,0.13,9.17,1.25,542724,Brecknock,90,Well drained,Alfisols,Hapludalfs,BrB,"Brecknock gravelly silt loam, 3 to 8 percent slopes",30.1,54.9,15.0
+26819702,80053545,Ap,0,20,1.0,2.0,3.0,5.5,8.3,11.0,4.5,6.0,6.0,0.13,9.17,1.25,542725,Brecknock,90,Well drained,Alfisols,Hapludalfs,BrC,"Brecknock gravelly silt loam, 8 to 15 percent slopes",30.1,54.9,15.0
+26819706,80053558,A,0,12,1.0,2.0,3.0,5.5,8.3,11.0,4.5,5.4,6.0,0.13,9.17,1.25,542726,Brecknock,90,Well drained,Alfisols,Hapludalfs,BsB,"Brecknock very stony silt loam, 3 to 8 percent slopes",30.1,54.9,15.0
+26819710,80053574,A,0,12,1.0,2.0,3.0,5.5,8.3,11.0,4.5,5.4,6.0,0.13,9.17,1.25,542727,Brecknock,90,Well drained,Alfisols,Hapludalfs,BsC,"Brecknock very stony silt loam, 8 to 25 percent slopes",30.1,54.9,15.0
+26819718,80053605,Ap,0,15,1.5,2.25,3.0,4.8,9.7,14.5,4.5,5.4,6.6,0.22,7.76,1.4,542728,Bucks,90,Well drained,Ultisols,Hapludults,BuA,"Bucks silt loam, 0 to 3 percent slopes",29.1,53.4,17.5
+26819723,80053625,Ap,0,15,1.5,2.25,3.0,4.8,9.7,14.5,4.5,5.4,6.6,0.22,7.76,1.4,542729,Bucks,90,Well drained,Ultisols,Hapludults,BuB,"Bucks silt loam, 3 to 8 percent slopes",29.1,53.4,17.5
+26819727,80053641,Ap,0,15,1.5,2.25,3.0,4.8,9.7,14.5,4.5,5.4,6.6,0.22,7.76,1.4,542730,Bucks,90,Well drained,Ultisols,Hapludults,BuC,"Bucks silt loam, 8 to 15 percent slopes",29.1,53.4,17.5
+26819499,80052824,Ap,0,15,1.5,2.25,3.0,4.8,9.7,14.5,4.5,5.4,6.6,0.22,7.76,1.4,542731,Bucks,90,Well drained,Ultisols,Hapludults,BuD,"Bucks silt loam, 15 to 25 percent slopes",29.1,53.4,17.5
+26819503,80052840,A,0,15,1.5,2.25,3.0,4.8,9.7,14.5,4.5,5.4,6.6,0.22,7.76,1.4,542732,Bucks,90,Well drained,Ultisols,Hapludults,BxC,"Bucks very stony silt loam, 8 to 25 percent slopes",29.1,53.4,17.5
+26819833,80054034,Ap,0,25,1.33,3.25,7.27,10.0,11.5,13.0,4.0,5.0,6.6,0.18,12.0,1.36,542733,Chester,80,Well drained,Ultisols,Hapludults,CbA,"Chester silt loam, 0 to 3 percent slopes",23.1,54.6,22.3
+26819823,80054014,Ap,0,25,1.33,3.25,7.27,10.0,11.5,13.0,4.0,5.0,6.6,0.18,12.0,1.37,542734,Chester,80,Well drained,Ultisols,Hapludults,CbB,"Chester silt loam, 3 to 8 percent slopes",23.1,54.6,22.3
+26819829,80054049,Ap,0,25,1.33,3.25,7.27,10.0,11.5,13.0,4.0,5.0,6.6,0.18,12.0,1.37,542735,Chester,80,Well drained,Ultisols,Hapludults,CbC,"Chester silt loam, 8 to 15 percent slopes",23.1,54.6,22.3
+26819505,80052847,Ap,0,20,1.0,2.0,3.0,8.9,15.9,22.7,5.1,5.8,6.5,0.17,9.17,1.3,542736,Clarksburg,95,Moderately well drained,Alfisols,Fragiudalfs,CkA,"Clarksburg silt loam, 0 to 5 percent slopes",27.1,54.4,18.5
+26819506,80052851,A,0,18,2.0,3.0,4.0,6.0,8.4,10.8,4.2,5.4,6.6,0.13,9.17,1.3,542737,Clymer,90,Well drained,Ultisols,Hapludults,ClB,"Clymer very stony loam, 3 to 8 percent slopes",41.6,37.4,21.0
+26819513,80052874,A,0,18,2.0,3.0,4.0,6.0,8.4,10.8,4.2,5.4,6.6,0.13,9.17,1.3,542738,Clymer,90,Well drained,Ultisols,Hapludults,ClD,"Clymer very stony loam, 8 to 25 percent slopes",41.6,37.4,21.0
+26819514,80052877,A,0,18,2.0,3.0,4.0,6.0,8.4,10.8,4.2,5.4,6.6,0.13,9.17,1.3,542739,Clymer,90,Well drained,Ultisols,Hapludults,ClF,"Clymer very stony loam, 25 to 50 percent slopes",41.6,37.4,21.0
+26819517,80052888,A,0,30,2.0,3.0,4.0,3.5,7.6,11.7,4.5,5.3,6.0,0.17,9.17,1.3,542740,Comus,90,Well drained,Inceptisols,Dystrudepts,Cm,Comus silt loam,32.3,56.2,11.5
+26819885,80054306,Ap,0,25,2.0,2.5,3.0,8.2,10.9,13.6,4.5,6.5,7.0,0.21,9.17,1.44,542741,Conestoga,90,Well drained,Alfisols,Hapludalfs,CnA,"Conestoga silt loam, 0 to 3 percent slopes",26.0,54.0,20.0
+26819892,80054320,Ap,0,25,2.0,3.0,4.0,6.5,10.9,14.7,6.6,7.0,7.3,0.2,9.0,1.38,542742,Conestoga,95,Well drained,Alfisols,Hapludalfs,CnB,"Conestoga silt loam, 3 to 8 percent slopes",20.0,60.0,20.0
+26819520,80052898,Ap,0,25,2.0,2.5,3.0,7.5,11.0,14.5,4.5,6.5,7.0,0.18,9.17,1.3,542743,Conestoga,90,Well drained,Alfisols,Hapludalfs,CnC,"Conestoga silt loam, 8 to 15 percent slopes",26.5,53.5,20.0
+26819848,80054095,Ap,0,25,2.0,3.0,4.0,8.2,10.9,14.7,6.1,6.7,7.3,0.17,9.17,1.34,542744,Duffield,90,Well drained,Alfisols,Hapludalfs,DbA,"Duffield silt loam, 0 to 3 percent slopes",21.0,59.0,20.0
+26819852,80054182,Ap,0,25,2.0,3.0,4.0,8.2,10.9,14.7,6.1,6.7,7.3,0.17,9.17,1.34,542745,Duffield,90,Well drained,Alfisols,Hapludalfs,DbB,"Duffield silt loam, 3 to 8 percent slopes",21.0,59.0,20.0
+26819729,80053648,H1,0,25,0.5,1.75,3.0,5.0,10.0,15.0,4.5,5.5,6.5,0.21,9.17,1.3,542746,Elk,85,Well drained,Alfisols,Hapludalfs,EcA,"Elk silt loam, 0 to 3 percent slopes",11.7,69.8,18.5
+26819732,80053658,H1,0,25,0.5,1.75,3.0,5.0,10.0,15.0,4.5,5.5,6.5,0.21,9.17,1.3,542747,Elk,85,Well drained,Alfisols,Hapludalfs,EcB,"Elk silt loam, 3 to 8 percent slopes",11.7,69.8,18.5
+26819739,80053679,Ap,0,25,2.0,2.5,3.0,4.8,10.1,15.3,4.5,6.5,7.0,0.21,9.17,1.3,542748,Elk,90,Well drained,Alfisols,Hapludalfs,EcC,"Elk silt loam, 8 to 15 percent slopes",11.7,69.8,18.5
+26819743,80053692,Ap,0,25,2.0,2.5,3.0,4.8,10.1,15.3,4.5,6.5,7.0,0.21,9.17,1.3,542749,Elk,65,Well drained,Alfisols,Hapludalfs,Eu,Elk-Urban land complex,11.7,69.8,18.5
+26819871,80054278,Ap,0,23,1.0,2.5,4.0,,,,3.6,4.8,6.0,0.18,28.23,1.51,542750,Linden,30,Well drained,Inceptisols,Dystrudepts,Le,"Lindside-Linden complex, 0 to 3 percent slopes, frequently flooded",45.0,41.0,14.0
+26819873,80054281,Ap,0,20,2.0,3.0,4.0,8.2,11.4,14.2,5.1,6.5,7.8,0.2,9.0,1.4,542750,Lindside,60,Moderately well drained,Inceptisols,Eutrudepts,Le,"Lindside-Linden complex, 0 to 3 percent slopes, frequently flooded",45.0,41.0,14.0
+26819836,80054255,Ap,0,20,1.0,2.5,6.0,,,,3.8,5.4,7.2,0.19,9.17,1.4,542751,Glenelg,85,Well drained,Ultisols,Hapludults,GbB,"Glenelg silt loam, 3 to 8 percent slopes",20.0,60.0,20.0
+26819860,80054261,Ap,0,20,1.0,2.5,6.0,,,,3.8,5.4,7.2,0.19,9.17,1.4,542752,Glenelg,85,Well drained,Ultisols,Hapludults,GbC,"Glenelg silt loam, 8 to 15 percent slopes",20.0,60.0,20.0
+26819526,80052917,Ap,0,20,1.5,2.0,2.5,,,,4.5,5.4,6.6,0.19,9.17,1.3,542753,Glenelg,90,Well drained,Ultisols,Hapludults,GbD,"Glenelg silt loam, 15 to 25 percent slopes",26.5,53.5,20.0
+26819843,80054008,Ap,0,27,1.0,3.0,6.0,5.4,8.2,14.8,6.0,6.8,7.3,0.2,9.0,1.4,542754,Glenville,75,Moderately well drained,Ultisols,Fragiudults,GdB,"Glenville silt loam, 3 to 8 percent slopes",30.0,55.0,15.0
+26819876,80054270,Ap,0,18,1.6,3.0,7.0,4.8,7.8,10.1,5.1,6.0,7.2,0.17,23.29,1.43,542755,Hagerstown,90,Well drained,Alfisols,Hapludalfs,HaA,"Hagerstown silt loam, 0 to 3 percent slopes",15.0,64.0,21.0
+26819853,80054102,Ap,0,18,1.6,3.0,7.0,2.3,7.8,12.6,5.1,6.0,7.2,0.17,23.29,1.42,542756,Hagerstown,90,Well drained,Alfisols,Hapludalfs,HaB,"Hagerstown silt loam, 3 to 8 percent slopes",15.0,64.0,21.0
+26819532,80052938,Ap,0,25,2.0,3.0,4.0,7.5,14.5,21.5,4.5,5.5,6.5,0.2,23.29,1.3,542757,Hagerstown,90,Well drained,Alfisols,Hapludalfs,HbC,"Hagerstown silty clay loam, 8 to 15 percent slopes",18.0,54.5,27.5
+26819533,80052941,Ap,0,25,1.0,2.0,3.0,7.5,14.5,21.5,4.5,5.5,6.5,0.2,23.29,1.3,542758,Hagerstown,90,Well drained,Alfisols,Hapludalfs,HbD,"Hagerstown silty clay loam, 15 to 30 percent slopes",18.0,54.5,27.5
+26819539,80052961,Ap,0,25,2.0,3.0,4.0,7.5,14.5,21.5,4.5,5.5,6.5,0.2,23.29,1.3,542759,Hagerstown,55,Well drained,Alfisols,Hapludalfs,Hc,Hagerstown-Urban land complex,20.5,54.5,25.0
+26819540,80052964,H1,0,25,2.0,2.5,3.0,7.5,14.5,21.5,4.5,5.5,6.5,0.2,23.29,1.3,542759,Urban land,35,,,,Hc,Hagerstown-Urban land complex,20.5,54.5,25.0
+26819548,80052994,Ap,0,20,2.0,3.0,4.0,5.5,9.0,12.5,5.6,6.5,7.3,0.18,9.17,1.3,542760,Hollinger,90,Well drained,Alfisols,Hapludalfs,HfA,"Hollinger silt loam, 0 to 3 percent slopes",30.1,54.9,15.0
+26819550,80053001,Ap,0,20,2.0,3.0,4.0,5.5,9.0,12.5,5.6,6.5,7.3,0.18,9.17,1.3,542761,Hollinger,90,Well drained,Alfisols,Hapludalfs,HfB,"Hollinger silt loam, 3 to 8 percent slopes",30.1,54.9,15.0
+26819556,80053020,Ap,0,20,2.0,3.0,4.0,5.5,9.0,12.5,5.6,6.5,7.3,0.18,9.17,1.3,542762,Hollinger,90,Well drained,Alfisols,Hapludalfs,HfC,"Hollinger silt loam, 8 to 15 percent slopes",30.1,54.9,15.0
+26819566,80053056,Ap,0,20,1.0,2.0,3.0,5.5,9.0,12.5,5.6,6.5,7.3,0.18,9.17,1.3,542763,Hollinger,90,Well drained,Alfisols,Hapludalfs,HfD,"Hollinger silt loam, 15 to 25 percent slopes",30.1,54.9,15.0
+26819570,80053072,Ap,0,18,2.0,3.5,5.0,8.2,11.5,14.8,5.6,6.5,7.3,0.22,9.17,1.3,542764,Holly,94,Poorly drained,Inceptisols,Endoaquepts,Hg,Holly silt loam,26.3,52.7,21.0
+26819746,80053700,Ap,0,20,2.0,3.0,4.0,5.5,7.3,9.0,4.5,5.4,6.6,0.2,9.17,1.3,542765,Lansdale,92,Well drained,Ultisols,Hapludults,LaB,"Lansdale loam, 3 to 8 percent slopes",45.7,41.8,12.5
+26819748,80053707,Ap,0,20,2.0,3.0,4.0,5.5,7.3,9.0,4.5,5.4,6.6,0.2,9.17,1.3,542766,Lansdale,92,Well drained,Ultisols,Hapludults,LaC,"Lansdale loam, 8 to 15 percent slopes",45.7,41.8,12.5
+26819750,80053715,Ap,0,20,1.5,2.25,3.0,5.5,7.3,9.0,4.5,5.4,6.6,0.2,9.17,1.3,542767,Lansdale,92,Well drained,Ultisols,Hapludults,LaD,"Lansdale loam, 15 to 25 percent slopes",45.7,41.8,12.5
+26819752,80053723,Ap,0,18,2.0,2.5,3.0,9.1,13.3,17.3,5.1,6.2,7.3,0.19,9.17,1.3,542768,Lehigh,80,Moderately well drained,Alfisols,Hapludalfs,LbB,"Lehigh silt loam, 3 to 8 percent slopes",30.1,54.9,15.0
+26819756,80053741,Ap,0,18,2.0,2.5,3.0,9.1,13.3,17.3,5.1,6.2,7.3,0.19,9.17,1.3,542769,Lehigh,85,Moderately well drained,Alfisols,Hapludalfs,LbC,"Lehigh silt loam, 8 to 15 percent slopes",30.1,54.9,15.0
+26819760,80053754,Ap,0,23,2.0,2.5,3.0,7.5,11.0,14.5,4.5,5.9,7.3,0.18,9.17,1.3,542770,Letort,90,Well drained,Alfisols,Hapludalfs,LdA,"Letort silt loam, 0 to 3 percent slopes",26.5,53.5,20.0
+26819763,80053767,Ap,0,23,2.0,2.5,3.0,7.5,11.0,14.5,4.5,5.9,7.3,0.18,9.17,1.3,542771,Letort,90,Well drained,Alfisols,Hapludalfs,LdB,"Letort silt loam, 3 to 8 percent slopes",26.5,53.5,20.0
+26819770,80053790,Ap,0,23,2.0,2.5,3.0,7.5,11.0,14.5,4.5,5.9,7.3,0.18,9.17,1.3,542772,Letort,90,Well drained,Alfisols,Hapludalfs,LdC,"Letort silt loam, 8 to 15 percent slopes",26.5,53.5,20.0
+26819578,80053093,H1,0,23,1.0,2.5,4.0,12.0,19.0,26.0,5.4,6.1,6.9,0.16,28.23,1.3,542773,Linden,97,Well drained,Inceptisols,Dystrudepts,Lg,Linden silt loam,44.8,41.2,14.0
+26819580,80053098,Ap,0,25,2.0,3.5,5.0,9.0,12.9,16.8,5.1,6.5,7.8,0.23,9.17,1.3,542774,Lindside,85,Moderately well drained,Inceptisols,Eutrudepts,Ln,Lindside silt loam,11.3,67.7,21.0
+26819586,80053116,Ap,0,25,2.0,3.0,4.0,5.5,10.0,14.5,4.5,5.3,6.0,0.19,9.17,1.3,542775,Manor,90,Well drained,Inceptisols,Dystrudepts,MaB,"Manor silt loam, 3 to 8 percent slopes",29.1,53.4,17.5
+26819591,80053136,Ap,0,25,2.0,3.0,4.0,5.5,10.0,14.5,4.5,5.3,6.0,0.19,9.17,1.3,542776,Manor,90,Well drained,Inceptisols,Dystrudepts,MaC,"Manor silt loam, 8 to 15 percent slopes",29.1,53.4,17.5
+26819594,80053146,Ap,0,25,1.5,2.5,3.5,5.5,10.0,14.5,4.5,5.3,6.0,0.19,9.17,1.3,542777,Manor,90,Well drained,Inceptisols,Dystrudepts,MaD,"Manor silt loam, 15 to 25 percent slopes",29.1,53.4,17.5
+26819598,80053161,A,0,25,3.0,4.0,5.0,4.0,7.0,10.0,4.5,5.3,6.0,0.16,9.17,1.33,542778,Manor,90,Well drained,Inceptisols,Dystrudepts,MbB,"Manor very stony silt loam, 3 to 8 percent slopes",29.1,53.4,17.5
+26819603,80053179,A,0,25,3.0,4.0,5.0,,,,4.5,5.3,6.0,0.16,9.17,1.33,542779,Manor,90,Well drained,Inceptisols,Dystrudepts,MbD,"Manor very stony silt loam, 8 to 25 percent slopes",29.1,53.4,17.5
+26819605,80053185,A,0,25,2.0,3.0,4.0,4.0,7.0,10.0,4.5,5.3,6.0,0.16,9.17,1.33,542780,Manor,90,Well drained,Inceptisols,Dystrudepts,MbF,"Manor very stony silt loam, 25 to 60 percent slopes",29.1,53.4,17.5
+26819889,80054287,Ap,0,16,1.0,1.5,2.0,8.9,16.1,20.8,5.8,6.0,6.5,0.18,9.0,1.49,542781,Mount Lucas,90,Moderately well drained,Alfisols,Hapludalfs,MdB,"Mount Lucas silt loam, 3 to 8 percent slopes",23.0,58.0,19.0
+26819612,80053210,A,0,15,3.0,3.5,4.0,4.0,6.0,8.0,5.1,5.8,6.5,0.19,9.17,1.25,542782,Mount Lucas,90,Moderately well drained,Alfisols,Hapludalfs,MeB,"Mount Lucas very stony silt loam, 3 to 12 percent slopes",30.1,54.9,15.0
+26819880,80053988,H1,0,41,1.0,2.5,4.0,3.8,9.3,14.7,5.6,6.7,7.8,0.19,9.17,1.3,542783,Newark,85,Somewhat poorly drained,Inceptisols,Endoaquepts,Nc,Newark silt loam,13.7,69.3,17.0
+26819616,80053221,Ap,0,41,2.0,3.0,4.0,4.3,10.6,16.8,5.6,6.7,7.8,0.19,9.17,1.3,542784,Newark,85,Somewhat poorly drained,Inceptisols,Endoaquepts,Nd,"Newark silt loam, schist substratum",13.7,69.3,17.0
+26819618,80053227,H1,0,38,2.0,3.0,4.0,6.0,13.0,20.0,6.1,7.3,8.4,0.21,9.17,1.3,542785,Nolin,85,Well drained,Inceptisols,Eutrudepts,Ne,Nolin silt loam,7.0,69.5,23.5
+26819884,80053989,H1,0,25,2.0,3.0,4.0,12.0,16.0,20.0,5.6,6.5,7.3,0.18,9.17,1.25,542786,Penlaw,80,Somewhat poorly drained,Alfisols,Fragiudalfs,Pa,Penlaw silt loam,11.4,68.6,20.0
+26819776,80053812,Ap,0,25,2.0,3.0,4.0,5.5,9.0,12.5,6.1,6.7,7.3,0.15,23.29,1.25,542787,Pequea,90,Well drained,Inceptisols,Eutrudepts,PeC,"Pequea silt loam, 8 to 15 percent slopes",30.1,54.9,15.0
+26819780,80053826,Ap,0,25,1.5,2.5,3.5,5.5,9.0,12.5,6.1,6.7,7.3,0.15,23.29,1.25,542788,Pequea,90,Well drained,Inceptisols,Eutrudepts,PeD,"Pequea silt loam, 15 to 25 percent slopes",30.1,54.9,15.0
+26819782,80053833,Ap,0,25,1.5,2.25,3.0,5.5,9.0,12.5,6.1,6.7,7.3,0.15,23.29,1.25,542789,Pequea,90,Well drained,Inceptisols,Eutrudepts,PeE,"Pequea silt loam, 25 to 50 percent slopes",30.1,54.9,15.0
+26819856,80054142,Ap,0,25,1.0,2.0,3.0,5.4,9.5,12.0,5.4,6.1,6.9,0.2,9.17,1.47,542791,Readington,85,Moderately well drained,Alfisols,Fragiudalfs,RaB,"Readington silt loam, 3 to 8 percent slopes",29.1,53.4,17.5
+26819786,80053841,Ap,0,23,2.0,2.5,3.0,7.5,10.0,12.5,4.2,5.4,6.6,0.16,9.17,1.3,542792,Readington,90,Moderately well drained,Alfisols,Fragiudalfs,RbB,"Readington extremely stony silt loam, 3 to 8 percent slopes",29.1,53.4,17.5
+26819795,80053879,Ap,0,23,2.0,3.0,4.0,7.0,10.5,14.0,4.5,5.3,6.0,0.16,7.76,1.2,542793,Rowland,90,Moderately well drained,Inceptisols,Dystrochrepts,Rd,Rowland silt loam,30.1,54.9,15.0
+26819796,80053883,H1,0,28,1.0,1.5,2.0,,,,3.6,4.6,5.5,0.14,9.17,1.3,542794,Ungers,85,Well drained,Ultisols,Hapludults,UaB,"Ungers loam, 3 to 8 percent slopes",44.3,40.7,15.0
+26819622,80053241,H1,0,23,1.0,1.5,2.0,,,,4.2,5.4,6.6,0.14,9.17,1.3,542795,Ungers,85,Well drained,Ultisols,Hapludults,UaC,"Ungers loam, 8 to 15 percent slopes",44.3,40.7,15.0
+26819627,80053260,H1,0,23,1.0,1.5,2.0,,,,4.2,5.4,6.6,0.14,9.17,1.3,542796,Ungers,85,Well drained,Ultisols,Hapludults,UaD,"Ungers loam, 15 to 25 percent slopes",44.3,40.7,15.0
+26819630,80053273,H1,0,8,1.0,1.5,2.0,,,,4.2,5.4,6.6,0.13,9.17,1.3,542797,Ungers,85,Well drained,Ultisols,Hapludults,UbB,"Ungers extremely stony loam, 3 to 8 percent slopes",44.3,40.7,15.0
+26819630,80053274,H2,8,102,0.0,0.25,0.5,,,,3.6,4.6,5.5,0.12,9.17,1.4,542797,Ungers,85,Well drained,Ultisols,Hapludults,UbB,"Ungers extremely stony loam, 3 to 8 percent slopes",44.3,40.7,15.0
+26819635,80053293,H1,0,8,1.0,1.5,2.0,,,,4.2,5.4,6.6,0.13,9.17,1.3,542798,Ungers,85,Well drained,Ultisols,Hapludults,UbD,"Ungers extremely stony loam, 8 to 25 percent slopes",44.3,40.7,15.0
+26819635,80053294,H2,8,102,0.0,0.25,0.5,,,,3.6,4.6,5.5,0.12,9.17,1.4,542798,Ungers,85,Well drained,Ultisols,Hapludults,UbD,"Ungers extremely stony loam, 8 to 25 percent slopes",44.3,40.7,15.0
+26819637,80053302,A,0,25,2.0,3.0,4.0,5.5,8.3,11.0,4.2,5.4,6.6,0.13,9.17,1.3,542799,Ungers,93,Well drained,Ultisols,Hapludults,UbE,"Ungers extremely stony loam, 25 to 50 percent slopes",44.3,40.7,15.0
+26819648,80053335,A,0,13,0.0,1.0,5.0,3.1,14.3,26.3,4.5,5.9,7.3,0.11,0.5,1.5,542801,Udorthents,95,Moderately well drained,Entisols,Udorthents,Ud,"Udorthents, loamy",42.1,37.9,20.0
+26819837,80054191,Ap,0,25,1.5,3.0,4.0,5.4,8.5,12.9,5.0,6.3,6.5,0.14,9.17,1.44,557257,Gladstone,85,Well drained,Ultisols,Hapludults,1GeB,"Gladstone gravelly loam, 3 to 8 percent slopes",39.8,44.6,15.6
+26819870,80054228,Ap,0,25,1.5,3.0,4.0,5.4,8.5,12.9,5.0,6.3,6.5,0.13,9.0,1.44,557258,Gladstone,85,Well drained,Ultisols,Hapludults,1GeC,"Gladstone gravelly loam, 8 to 15 percent slopes",39.8,44.6,15.6
+26819652,80053349,A,0,25,2.0,3.0,4.0,,,,4.5,5.4,6.6,0.14,23.29,1.3,557260,Gladstone,90,Well drained,Ultisols,Hapludults,1GfD,"Gladstone gravelly loam, 8 to 25 percent slopes, very bouldery",42.7,38.3,19.0
+26819654,80053358,A,0,25,2.0,3.0,4.0,,,,4.5,5.4,6.6,0.14,23.29,1.3,557261,Gladstone,90,Well drained,Ultisols,Hapludults,1GfF,"Gladstone gravelly loam, 25 to 55 percent slopes, very bouldery",42.7,38.3,19.0
+26819657,80053370,A,0,20,2.0,3.0,4.0,,,,4.2,5.4,6.6,0.14,23.29,1.3,557295,Edgemont,90,Well drained,Ultisols,Hapludults,1EdB,"Edgemont channery sandy loam, 0 to 8 percent slopes, extremely stony",67.9,19.6,12.5
+26819801,80053904,A,0,20,2.0,3.0,4.0,,,,3.6,4.0,6.6,0.14,23.29,1.3,557296,Edgemont,93,Well drained,Ultisols,Hapludults,1EdD,"Edgemont channery sandy loam, 8 to 25 percent slopes, extremely stony",69.6,23.9,6.5
+26819804,80053912,A,0,20,2.0,3.0,4.0,,,,3.6,4.0,6.6,0.14,23.29,1.3,557297,Edgemont,93,Well drained,Ultisols,Hapludults,1EdF,"Edgemont channery sandy loam, 25 to 60 percent slopes, extremely stony",69.6,23.9,6.5
+26819807,80053924,Ap,0,20,2.0,3.0,4.0,4.4,7.7,11.0,5.6,6.1,6.5,0.16,9.17,1.28,557298,Joanna,90,Well drained,Ultisols,Hapludults,1JnB,"Joanna loam, 3 to 8 percent slopes",44.8,41.2,14.0
+26819810,80053936,Ap,0,20,2.0,3.0,4.0,4.4,7.7,11.0,5.6,6.1,6.5,0.16,9.17,1.28,557301,Joanna,90,Well drained,Ultisols,Hapludults,1JnC,"Joanna loam, 8 to 15 percent slopes",44.8,41.2,14.0
+26819813,80053943,Ap,0,20,2.0,3.0,4.0,4.4,7.7,11.0,5.6,6.1,6.5,0.16,9.17,1.28,557302,Joanna,90,Well drained,Ultisols,Hapludults,1JnD,"Joanna loam, 15 to 25 percent slopes",44.8,41.2,14.0
+26819816,80053955,A,0,20,3.0,4.0,5.0,,,,4.2,5.4,6.6,0.16,9.17,1.18,557319,Joanna,90,Well drained,Ultisols,Hapludults,1JpB,"Joanna loam, 0 to 8 percent slopes, extremely stony",45.3,43.2,11.5
+26819822,80053971,A,0,20,3.0,4.0,5.0,,,,4.2,5.4,6.6,0.16,9.17,1.18,557320,Joanna,90,Well drained,Ultisols,Hapludults,1JpD,"Joanna loam, 8 to 25 percent slopes, extremely stony",45.3,43.2,11.5
+26819660,80053381,A,0,20,3.0,4.0,5.0,,,,4.2,5.4,6.6,0.16,9.17,1.18,557325,Joanna,90,Well drained,Ultisols,Hapludults,1JpF,"Joanna loam, 25 to 60 percent slopes, extremely stony",45.3,43.2,11.5
+26819665,80053401,Ap,0,18,2.0,2.5,3.0,9.1,13.3,17.3,5.1,6.2,7.3,0.19,9.17,1.3,557326,Lehigh,80,Moderately well drained,Alfisols,Hapludalfs,1LmB,"Lehigh silt loam, 3 to 8 percent slopes",30.1,54.9,15.0
+26819667,80053409,Ap,0,20,3.0,5.0,7.0,5.0,10.7,16.3,5.1,5.8,6.5,0.18,9.17,1.28,557333,Middlebury,95,Moderately well drained,Inceptisols,Eutrudepts,1Me,Middlebury silt loam,32.3,56.2,11.5
+26819670,80053420,A,0,23,1.0,2.5,4.0,3.7,5.6,7.4,5.4,6.1,6.9,0.14,9.17,1.35,557335,Murrill,90,Well drained,Ultisols,Hapludults,1MuB,"Murrill gravelly loam, 3 to 8 percent slopes",44.3,40.7,15.0
+26819673,80053431,Ap,0,23,1.0,2.5,4.0,3.7,5.6,7.4,5.4,6.1,6.9,0.14,9.17,1.35,557336,Murrill,90,Well drained,Ultisols,Hapludults,1MuC,"Murrill gravelly loam, 8 to 15 percent slopes",44.3,40.7,15.0
+26819677,80053448,Ap,0,23,2.0,3.0,4.0,9.1,15.8,21.4,5.4,6.1,6.9,0.18,9.17,1.3,557337,Neshaminy,97,Well drained,Alfisols,Hapludalfs,1NaB,"Neshaminy silt loam, 3 to 8 percent slopes",27.3,54.7,18.0
+26819679,80053456,Ap,0,23,2.0,3.0,4.0,9.1,15.8,21.4,5.4,6.1,6.9,0.18,9.17,1.3,557338,Neshaminy,95,Well drained,Alfisols,Hapludalfs,1NaC,"Neshaminy silt loam, 8 to 15 percent slopes",27.3,54.7,18.0
+26819681,80053464,A,0,28,3.0,4.0,5.0,,,,4.2,5.4,6.6,0.16,9.17,1.3,557342,Neshaminy,95,Well drained,Alfisols,Hapludalfs,1NhB,"Neshaminy gravelly silt loam, 0 to 8 percent slopes, extremely bouldery",30.1,54.9,15.0
+26819682,80053468,A,0,28,3.0,4.0,5.0,,,,4.5,5.4,6.6,0.16,9.17,1.3,557343,Neshaminy,97,Well drained,Alfisols,Hapludalfs,1NhD,"Neshaminy gravelly silt loam, 8 to 25 percent slopes, extremely bouldery",30.1,54.9,15.0
+26819684,80053475,Ap,0,20,1.0,2.0,3.0,5.5,8.2,11.0,5.1,6.2,7.3,0.2,23.29,1.3,557345,Ryder,30,Well drained,Alfisols,Hapludalfs,1DfC,"Duffield-Ryder silt loams, 8 to 15 percent slopes",22.4,55.1,22.5
+26819687,80053486,Ap,0,25,2.0,3.0,4.0,8.2,12.2,16.3,6.1,6.7,7.3,0.19,9.17,1.25,557345,Duffield,60,Well drained,Alfisols,Hapludalfs,1DfC,"Duffield-Ryder silt loams, 8 to 15 percent slopes",22.4,55.1,22.5
+26819691,80053501,Ap,0,25,2.0,3.0,4.0,8.2,12.2,16.3,6.1,6.7,7.3,0.19,9.17,1.25,557346,Duffield,50,Well drained,Alfisols,Hapludalfs,1DfD,"Duffield-Ryder silt loams, 15 to 25 percent slopes",22.4,55.1,22.5
+26819693,80053509,Ap,0,20,1.0,2.0,3.0,5.5,8.2,11.0,5.1,6.2,7.3,0.2,23.29,1.3,557346,Ryder,40,Well drained,Alfisols,Hapludalfs,1DfD,"Duffield-Ryder silt loams, 15 to 25 percent slopes",22.4,55.1,22.5
+26819571,80053075,Ap,0,20,2.0,3.5,5.0,9.1,13.4,17.7,6.1,6.7,7.3,0.18,9.17,1.3,557347,Towhee,96,Poorly drained,Alfisols,Fragiaqualfs,1ToA,"Towhee silt loam, 0 to 3 percent slopes",30.1,54.9,15.0
+26819574,80053081,H1,0,152,,,,,,,,,,0.0,,,558453,Rock outcrop,100,,,,Rc,Rock outcrop,,,0.0
+26819575,80053082,A,0,20,1.0,2.0,3.0,15.0,22.0,25.0,4.5,5.5,6.5,0.21,7.76,1.3,558454,Watchung,90,Poorly drained,Alfisols,Albaqualfs,WbB,"Watchung extremely stony silt loam, 0 to 8 percent slopes",30.4,55.4,14.2

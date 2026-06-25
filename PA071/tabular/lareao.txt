@@ -1,0 +1,5 @@
+"Climate Factor Area (USLE)"|"8"|"Climate Factor"|629516|"14649"|"611022"
+"County or Parish"|"PA071"|"Lancaster"|629516|"14649"|"611023"
+"MLRA"|"148"|"Northern Piedmont"|623360|"14649"|"611024"
+"Rainfall Factor Area (USLE)"|"175"|"Rainfall Factor"|629516|"14649"|"611025"
+"State or Territory"|"PA"|"Pennsylvania"|629516|"14649"|"611026"
